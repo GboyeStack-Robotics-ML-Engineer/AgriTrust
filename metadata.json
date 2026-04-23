@@ -1,0 +1,6 @@
+{
+  "name": "AgriTrust Edge",
+  "description": "An Agritech microfinance platform that combines computer vision crop diagnosis with mock financial data to generate a Trust Score for smallholder farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
